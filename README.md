@@ -1,5 +1,6 @@
 # ARIMA-for-Stock-Prediction
 Some additional modeules such as statsmodels may need to be installed.
+
 Note: The weekly stock data was downloaded from yahoo finance. This makes the forecast into the future equivalent to weeks. 
 
 ## About the project
